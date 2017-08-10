@@ -1,5 +1,5 @@
 # weather_data_analysis
-In this project i have analyzed antartic weather data. This project was part of my research internship at [National Centre for Antarctic and Ocean Research](http://www.ncaor.gov.in/) , India. 
+In this project i have analyzed antarctic weather data. This project was part of my research internship at [National Centre for Antarctic and Ocean Research](http://www.ncaor.gov.in/) , India. 
 
 - In part-1, priliminary temperature analysis has been done.
 - in part-2, temperature data has been analyzed with the Seasonal ARIMA model. Futher forecast is also done based on the obtained model.
